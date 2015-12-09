@@ -56,5 +56,5 @@ app.use(function(err, req, res, next) {
   });
 });
 
-
+ //导出app
 module.exports = app;
